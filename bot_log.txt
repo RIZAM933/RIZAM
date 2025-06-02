@@ -1,0 +1,12 @@
+2025-05-31 13:47:40,038 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-31 13:47:40,039 - INFO - logging in using static token
+2025-05-31 13:47:43,134 - INFO - Shard ID None has connected to Gateway (Session ID: 0125ae6650d27a12de642f413b522dbb).
+2025-05-31 13:47:45,183 - INFO - Бот успешно запущен.
+2025-05-31 13:48:32,066 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-31 13:48:32,067 - INFO - logging in using static token
+2025-05-31 13:48:34,695 - INFO - Shard ID None has connected to Gateway (Session ID: 5530254a6a84c8422f1148a3b991eca5).
+2025-05-31 13:48:36,759 - INFO - Бот успешно запущен.
+2025-05-31 13:49:33,715 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-05-31 13:49:33,717 - INFO - logging in using static token
+2025-05-31 13:49:36,804 - INFO - Shard ID None has connected to Gateway (Session ID: 758b316f41baa3f5479ecc3ade81484b).
+2025-05-31 13:49:38,885 - INFO - Бот успешно запущен.
